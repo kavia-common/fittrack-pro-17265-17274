@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FitTrack</string>
+    <string name="home">Home</string>
+    <string name="activities">Activities</string>
+    <string name="workouts">Workouts</string>
+    <string name="goals">Goals</string>
+    <string name="profile">Profile</string>
+
+    <string name="today_steps">Today’s Steps</string>
+    <string name="highlights">Highlights</string>
+    <string name="today_steps_value">%1$d steps</string>
+    <string name="highlight_total_workouts">%1$d workouts this week</string>
+    <string name="highlight_active_days">%1$d active days</string>
+    <string name="highlight_current_goal">%1$s</string>
+
+    <string name="add">Add</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="workout_generic">Workout</string>
+    <string name="saved">Saved</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="no_account_register">No account? Register</string>
+    <string name="have_account_login">Have an account? Login</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_login_failed">Login failed</string>
+    <string name="error_register_failed">Registration failed</string>
+
+    <string name="steps">Steps</string>
+    <string name="distance_km">Distance (km)</string>
+    <string name="workout_type">Type</string>
+    <string name="duration_min">Duration (min)</string>
+    <string name="calories">Calories</string>
+
+    <string name="goal_daily_value">%1$d / %2$d steps today</string>
+    <string name="goal_weekly_value">%1$d / %2$d steps this week</string>
+    <string name="daily_goal_label">Daily steps goal</string>
+    <string name="weekly_goal_label">Weekly steps goal</string>
+    <string name="save_goals">Save goals</string>
+
+    <string name="reminder_time">Reminder time</string>
+    <string name="set_reminder">Set reminder</string>
+    <string name="reminder_time_value">%1$s</string>
+    <string name="reminder_title">Time to log your activity</string>
+    <string name="reminder_text">Keep your streak going. Log steps or workouts today!</string>
+
+    <string name="activity_item_subtitle">%1$d steps • %2$.2f km</string>
+    <string name="workout_item_subtitle">%1$d kcal • %2$s</string>
+    <string name="logout">Logout</string>
+</resources>

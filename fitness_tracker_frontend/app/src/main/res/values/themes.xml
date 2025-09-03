@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.FitTrack.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme_FitTrack_Light_NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

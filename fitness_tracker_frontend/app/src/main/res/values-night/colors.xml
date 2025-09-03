@@ -1,0 +1,10 @@
+<resources>
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surfaceVariant">#2A2A2A</color>
+    <color name="onBackground">#FFFFFF</color>
+    <color name="onSurface">#FFFFFF</color>
+    <color name="onSurfaceVariant">#D0D0D0</color>
+    <color name="nav_unselected">#B0B0B0</color>
+    <color name="nav_selected">#81C784</color>
+</resources>

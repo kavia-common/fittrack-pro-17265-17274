@@ -1,0 +1,19 @@
+<resources>
+    <!-- Provided palette -->
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorSecondary">#0288D1</color>
+    <color name="colorAccent">#FFEB3B</color>
+
+    <!-- Light theme neutrals -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surfaceVariant">#EDEDED</color>
+
+    <color name="onBackground">#1E1E1E</color>
+    <color name="onSurface">#1E1E1E</color>
+    <color name="onSurfaceVariant">#5A5A5A</color>
+
+    <!-- For nav color state -->
+    <color name="nav_unselected">#7A7A7A</color>
+    <color name="nav_selected">#388E3C</color>
+</resources>
