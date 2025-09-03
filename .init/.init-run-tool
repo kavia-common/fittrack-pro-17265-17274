@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/fittrack-pro-17265-17274/fitness_tracker_frontend"
+}
